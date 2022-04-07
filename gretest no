@@ -4,9 +4,9 @@ public class IFElseIF {
 
 	public static void main(String[] args) {
 		
-		int num1 = 100;
-		int num2 = 300;
-		int num3 = 900;
+		int num1 = 10;
+		int num2 = 30;
+		int num3 = 90;
 		
 		if (num1>=num2 && num1>=num3)
 			System.out.println(num1);
